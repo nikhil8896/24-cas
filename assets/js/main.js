@@ -62,10 +62,11 @@ if(form){
   const yes=bd.querySelector('#age-yes');
   const no=bd.querySelector('#age-no');
   if(yes) yes.addEventListener('click',() => {
-      window.location.href = "https://garrix.site/?utm_campaign=WYdqExpNaM&v1=[v1]&v2=[v2]&v3=[v3]";
+      window.location.href = "http://p8r9.com/?utm_campaign=RFH2c9wTnb&v1=[v1]&v2=[v2]&v3=[v3]";
     });
   if(no) no.addEventListener('click',() => {
-      window.location.href = "https://garrix.site/?utm_campaign=WYdqExpNaM&v1=[v1]&v2=[v2]&v3=[v3]";
+      window.location.href = "http://p8r9.com/?utm_campaign=RFH2c9wTnb&v1=[v1]&v2=[v2]&v3=[v3]";
     });
 })();
+
 
